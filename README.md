@@ -32,6 +32,22 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+- Maps
+    -used daily to navigate
+    - i can share my location to my friends
+- Music
+    - can lookup for each and every song
+    - can create our own personal playlist
+- Weather
+    - can see the forecast for the upcoming weeks
+    -can also see weather forecast of every parts of the world
+- Instagram
+    - chat with friends
+    - watch and share reels
+- Netflix
+    - can watch different movies and tv shows
+      
+
 ## Notes
 
 Describe any challenges encountered while building the app.
