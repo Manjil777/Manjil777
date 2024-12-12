@@ -40,7 +40,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     - can create our own personal playlist
 - Weather
     - can see the forecast for the upcoming weeks
-    -can also see weather forecast of every parts of the world
+    - can also see weather forecast of every parts of the world
 - Instagram
     - chat with friends
     - watch and share reels
