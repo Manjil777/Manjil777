@@ -47,7 +47,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Netflix
     - can watch different movies and tv shows
  
-[ ] I would like to create an app which changes the photo content of lectures into a word text and figures document.
+- [ ] I would like to create an app which changes the photo content of lectures into a word text and figures document.
       
 
 ## Notes
